@@ -1,0 +1,30 @@
+services:
+  # 1. Webサーバー & PHP（あなたの画面を動かす担当）
+  app:
+    image: php:8.2-apache
+    container_name: php_emr
+    volumes:
+      - .:/var/www/html
+    ports:
+      - "80:80"
+    depends_on:
+      - db
+
+  # 2. データベース（バイタルデータを保管する担当）
+  db:
+    image: mysql:8.0
+    container_name: mysql_emr
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: emr_db
+    ports:
+      - "3306:3306"
+
+  # 3. phpMyAdmin（データベースをマウスで操作する担当）
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: pma_emr
+    environment:
+      PMA_HOST: db
+    ports:
+      - "8080:80"

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "P0001",
+    "name": "山田 太郎",
+    "kana": "ヤマダ タロウ",
+    "birthday": "1980-05-12",
+    "gender": "男性",
+    "blood_type": "A+",
+    "allergy": "ピーナッツ",
+    "memo": "前回の採血時に気分不快あり。",
+    "room_number":"402",
+    "bed_number": "A"
+  },
+  {
+    "id": "P0002",
+    "name": "佐藤 花子",
+    "kana": "サトウ ハナコ",
+    "birthday": "1992-11-20",
+    "gender": "女性",
+    "blood_type": "O+",
+    "allergy": "なし",
+    "memo": "喘息の既往あり。吸入器持参。",
+    "room_number":"402",
+    "bed_number": "A"
+
+  },
+  {
+    "id": "P0003",
+    "name": "鈴木 一郎",
+    "kana": "スズキ イチロウ",
+    "birthday": "1965-03-27",
+    "gender": "男性",
+    "blood_type": "B-",
+    "allergy": "ペニシリン",
+    "memo": "本日、宮崎市内の自宅より来院。"
+  },
+  {
+    "id": "P0004",
+    "name": "高橋 光輝",
+    "kana": "タカハシ ミツテル",
+    "birthday": "1948-09-15",
+    "gender": "男性",
+    "room_number": "501",
+    "blood_type": "A+",
+    "allergy": "なし",
+    "memo": "独居。内服管理に不安あり、お薬カレンダー使用検討中。耳が少し遠い。"
+  },
+  {
+    "id": "P0005",
+    "name": "伊藤 明美",
+    "kana": "イトウ アケミ",
+    "birthday": "1975-12-05",
+    "gender": "女性",
+    "room_number": "402",
+    "blood_type": "O-",
+    "allergy": "ラテックス",
+    "memo": "ラテックスアレルギー厳禁。処置時は非ラテックス手袋を使用すること。"
+  },
+  {
+    "id": "P0006",
+    "name": "渡辺 健二",
+    "kana": "ワタナベ ケンジ",
+    "birthday": "2015-06-20",
+    "gender": "男性",
+    "room_number": "305",
+    "blood_type": "AB+",
+    "allergy": "卵、牛乳",
+    "memo": "小児科入院。吸入指導中。プレイルームでの活動を好む。"
+  },
+  {
+    "id": "P0007",
+    "name": "中村 節子",
+    "kana": "ナカムラ セツコ",
+    "birthday": "1935-02-10",
+    "gender": "女性",
+    "room_number": "508",
+    "blood_type": "B+",
+    "allergy": "なし",
+    "memo": "転倒転落リスク高（アセスメントスコア12点）。センサーマット使用中。"
+  },
+  {
+    "id": "P0008",
+    "name": "小林 勇気",
+    "kana": "コバヤシ ユウキ",
+    "birthday": "1990-01-30",
+    "gender": "男性",
+    "room_number": "405",
+    "blood_type": "O+",
+    "allergy": "造影剤",
+    "memo": "明日、腹部CT検査予定。造影剤アレルギー既往があるため単純CTのみ。"
+  },
+  {
+    "id": "P0009",
+    "name": "加藤 美智代",
+    "kana": "カトウ ミチヨ",
+    "birthday": "1955-08-22",
+    "gender": "女性",
+    "room_number": "402",
+    "blood_type": "A-",
+    "allergy": "なし",
+    "memo": "インスリン自己注射の手技確認中。低血糖症状の理解度は良好。"
+  },
+  {
+    "id": "P0010",
+    "name": "吉田 茂",
+    "kana": "ヨシダ シゲル",
+    "birthday": "1942-11-11",
+    "gender": "男性",
+    "room_number": "501",
+    "blood_type": "B+",
+    "allergy": "なし",
+    "memo": "リハビリ意欲高い。本日午後に理学療法士による歩行訓練あり。"
+  }
+]
