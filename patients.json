@@ -20,7 +20,7 @@
     "blood_type": "O+",
     "allergy": "なし",
     "memo": "喘息の既往あり。吸入器持参。",
-    "room_number":"402",
+    "room_number":"403",
     "bed_number": "A"
 
   },
@@ -32,7 +32,10 @@
     "gender": "男性",
     "blood_type": "B-",
     "allergy": "ペニシリン",
-    "memo": "本日、宮崎市内の自宅より来院。"
+    "memo": "本日、宮崎市内の自宅より来院。",
+    "room_number":"402",
+    "bed_number": "B"
+
   },
   {
     "id": "P0004",
